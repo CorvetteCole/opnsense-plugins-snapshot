@@ -1,0 +1,1 @@
+This package adds snapshot management and automatic rollback via ZFS. Snapshots can be taken automatically or manually.
